@@ -1669,15 +1669,39 @@ Leading Chinese lyrics website: https://mojim.com/twznew.htm
 
 = Province of China
 {parent=China}
+{title2=Sheng3}
+
+= Province
+{disambiguate=China}
+{synonym}
 {wiki}
 
 = 省
 {synonym}
 {title2}
 
+= Prefecture-level city
+{parent=Province of China}
+{wiki}
+
+= 地级市
+{synonym}
+{title2}
+
+= County
+{disambiguate=China}
+{parent=Prefecture-level city}
+
+= 县
+{synonym}
+{title2}
+
+= List of province of China
+{parent=Province of China}
+
 = Shanxi
 {c}
-{parent=Province of China}
+{parent=List of province of China}
 {wiki}
 
 = 山西
@@ -1688,7 +1712,7 @@ Literally: West of the Mountain.
 
 = Shandong
 {c}
-{parent=Province of China}
+{parent=List of province of China}
 {wiki}
 
 = 山东
